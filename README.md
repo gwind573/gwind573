@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @gwind573
-- 👀 I’m interested in cybersecurity and coding
-- 🌱 I’m currently learning coding and cybersecurity
-- 💞️ I’m looking to collaborate on coding and cybersecurity
-- 📫 How to reach me on master coding and cybersecurity
+# Hi, I’m gwind573 👋
 
-<!---
-gwind573/gwind573 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS student in Japan 🇯🇵  
+I build small apps that make life easier — and I’m learning Software Developer along the way.  
+（小さな仕組みで、生活をそっと支えるアプリを作りたい）
+
+---
+
+## 🚀 Featured
+- **Portfolio**: (URLをここに)  
+- **Processing Game**: `easy-game-with-processing` (リンク)  
+- **Task / Study App (Java)**: (リンク)
+
+> ピン留めもこの3つは固定でOK。
+
+---
+
+## 🧩 What I’m working on
+- Building a **portfolio website**
+- Improving **UI/UX** and making “simple but usable” apps
+- Learning fundamentals of **security** (web / basic tooling)
+
+---
+
+## 🛠 Tech
+- **Languages**: Java, HTML/CSS, JavaScript, (Python if you want)
+- **Tools**: Git/GitHub, VS Code
+- **Interested in**: UI/UX, Web dev, security basics
+
+---
+
+## 📌 Learning Log (short)
+- `2025` : Portfolio + small apps + security fundamentals
+
+---
+
+## 🤝 Let’s connect
+- GitHub: https://github.com/gwind573
+- (X/LinkedIn/Email があればここに)
