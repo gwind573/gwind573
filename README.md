@@ -1,39 +1,31 @@
 # Hi, I’m gwind573 👋
 
-CS student in Japan 🇯🇵  
-I build small apps that make life easier — and I’m learning Software Developer along the way.  
-（小さな仕組みで、生活をそっと支えるアプリを作りたい）
+CS student in Japan 🇯🇵 | App & Web dev (Java / HTML/CSS/JS) | learning Sofrware Development and Security  
+I build small apps that make life easier.（小さな仕組みで、生活をそっと支える）
 
 ---
 
 ## 🚀 Featured
-- **Portfolio**: (URLをここに)  
-- **Processing Game**: `easy-game-with-processing` (リンク)  
-- **Task / Study App (Java)**: (リンク)
-
-> ピン留めもこの3つは固定でOK。
+- **Portfolio**: https://YOUR-PORTFOLIO-URL
+- **Processing Game**: https://github.com/gwind573/esay-game-with-processing
+- **Next Project**: https://YOUR-NEXT-REPO-URL
 
 ---
 
 ## 🧩 What I’m working on
-- Building a **portfolio website**
-- Improving **UI/UX** and making “simple but usable” apps
-- Learning fundamentals of **security** (web / basic tooling)
+- Portfolio website (UI/UX focused)
+- Small apps to improve daily productivity
+- Security fundamentals (web / tooling)
 
 ---
 
 ## 🛠 Tech
-- **Languages**: Java, HTML/CSS, JavaScript, (Python if you want)
+- **Languages**: Java, HTML/CSS, JavaScript
 - **Tools**: Git/GitHub, VS Code
 - **Interested in**: UI/UX, Web dev, security basics
 
 ---
 
-## 📌 Learning Log (short)
-- `2025` : Portfolio + small apps + security fundamentals
-
----
-
 ## 🤝 Let’s connect
 - GitHub: https://github.com/gwind573
-- (X/LinkedIn/Email があればここに)
+- Email: yourname [at] example.com
